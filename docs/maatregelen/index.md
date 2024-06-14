@@ -549,7 +549,7 @@ De organisatie behoort plannen op te stellen voor, en zich voor te bereiden op, 
 
 > Aangescherpt als gevolg van opmerkingen op github.
 
-[Kop 9] 5.24.06 (onderstaande maatregelen worden later uitgesplitst naar losse maatregelen)
+#### 5.24.06 (onderstaande maatregelen worden later uitgesplitst naar losse maatregelen)
 - In de incidentprocedure van de organisatie is er een koppeling gemaakt met crisisbeheersing.
 - De beveiliging van toeleveringsketens zijn onderdeel van de risicoanalyse voor de organisatie.
 - In de risicoanalyse wordt rekening gehouden met de specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener en met de algemene kwaliteit van de producten en de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners met inbegrip van hun veilige ontwikkelingsprocedures.
